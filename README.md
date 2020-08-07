@@ -5,9 +5,9 @@
 
 ### 📖 What i am currently learning
 
-- Flutter _ Progress 25% _
-- Unity _ Progress 10% _
-- Web Apps & Progressive Web Apps _ Progress 30% _
+- Flutter
+- Unity
+- Web Apps & Progressive Web Apps
 
 ### 💻 What i am currently/done working on
 
