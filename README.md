@@ -12,6 +12,7 @@
 ### 💻 What i am currently/done working on
 
 - [Efficacy](https://efficacy.now.sh/) 🚀
+- [Artikel](https://artikel.vercel.app/) 🚀
 
 ### 📫 Where to find me
 
