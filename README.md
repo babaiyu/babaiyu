@@ -4,10 +4,11 @@
 <h2 align="center">Hi there! My name is Bayu Permana Putra. 👋🤓</h2>
 <p style="text-align: center;">I'm a Front End Developer which is focus at Web (ReactJS) and Mobile (React Native) development and i'm from Indonesia. I'm also currently lecture at Binus University while working in my company. I love to passionate about mobile apps technology, web apps, progressive web apps, NodeJS, moreover. I'm not only developing and building things, I also enjoy to playing game like Valorant, Fortnite, and Brawlhalla.</p>
 
-### 📖 What i am currently learning
+### 📖 What language programming i am currently learning
 
-- Native Android
-- Backend Technologies (NodeJS)
+- JavaScript
+- TypeScript
+- Golang
 
 ### 💻 What i am currently/done working on
 
