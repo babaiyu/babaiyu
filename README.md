@@ -21,3 +21,5 @@
 
 - [Facebook](https://facebook.com/bayu.permanaputra.94/) 😏
 - [Instagram](https://instagram.com/babaiyu/) 😎
+
+<img alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=babaiyu&show_icons=true&hide_border=true" />
