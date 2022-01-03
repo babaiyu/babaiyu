@@ -4,7 +4,7 @@
 </div>
 
 <h2 style="text-align: center;">Hi there! My name is Bayu Permana Putra. 👋🤓</h2>
-<p style="text-align: center;">I'm a Mobile Engineer which is React Native. I'm from Indonesia. I'm also currently lecture at Binus University while working in my company. I love to passionate about mobile apps technology, web apps, progressive web apps, NodeJS, moreover. I'm not only developing and building things, I also enjoy to playing game like Valorant, Fortnite, and Brawlhalla.</p>
+<p style="text-align: center;">I'm a Mobile Engineer React Native. I'm from Indonesia. Most language programming that i using is Javascript and Typescript. I'm also currently lecture at Binus University while working in my company. I love to passionate about mobile apps technology, web apps, progressive web apps. I'm not only developing and building things, i also playing Valorant</p>
 
 ### 📖 What language programming i am currently use
 
@@ -14,6 +14,7 @@
 ### 💻 What i am currently/done working on
 
 - [Indonesian Jokes](https://indonesian-jokes.vercel.app/)
+- [Portfolio](https://babaiyu.vercel.app)
 
 ### 📫 Where to find me
 
