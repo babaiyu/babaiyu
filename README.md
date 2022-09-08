@@ -13,8 +13,9 @@
 
 ### 💻 What i am currently/done working on
 
-- [Indonesian Jokes](https://indonesian-jokes.vercel.app/)
-- [Portfolio](https://babaiyu.vercel.app)
+- [Indonesian Jokes](https://indonesian-jokes.vercel.app/) ✅
+- [Portfolio](https://babaiyu.my.id) ✅
+- [Ndang WA](https://babaiyu.my.id/) ✅
 
 ### 📫 Where to find me
 
