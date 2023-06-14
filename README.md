@@ -12,6 +12,8 @@
 
 - JavaScript
 - TypeScript
+- Python (learning Data Science at college)
+- PHP (learning Laravel at college)
 
 ### 💻 What i am currently/done working on
 
